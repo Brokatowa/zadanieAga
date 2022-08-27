@@ -1,0 +1,33 @@
+/* h1 {
+font-size: 150px;
+text-align: center;
+
+} */
+
+.container {
+    max-width: 800px;
+    background: violet;
+    margin: 0 auto;
+
+}
+
+.header {
+    width:  100%;
+    color: #fff;
+    text-align: center;
+
+
+}
+
+.name {
+    font-size: 120px;
+    color: pink;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.name:hover {
+    color: lightblue;
+    transition: all .3s ease-in-out;
+
+}
